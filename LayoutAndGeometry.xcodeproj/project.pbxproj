@@ -11,6 +11,16 @@
 		F8E338662C6CC570005908DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338652C6CC570005908DF /* ContentView.swift */; };
 		F8E338682C6CC572005908DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8E338672C6CC572005908DF /* Assets.xcassets */; };
 		F8E3386B2C6CC572005908DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8E3386A2C6CC572005908DF /* Preview Assets.xcassets */; };
+		F8E338722C6CC683005908DF /* HowLayoutWorksContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338712C6CC683005908DF /* HowLayoutWorksContentView.swift */; };
+		F8E338742C6CDA00005908DF /* CustomAlignmentGuideContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338732C6CDA00005908DF /* CustomAlignmentGuideContentView.swift */; };
+		F8E338762C6CE4A1005908DF /* AbsolutePositioningContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338752C6CE4A1005908DF /* AbsolutePositioningContentView.swift */; };
+		F8E338782C6CE814005908DF /* SantanderLoginContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338772C6CE814005908DF /* SantanderLoginContentView.swift */; };
+		F8E3387A2C6CF5A4005908DF /* ResizingImagesGeometryReaderContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338792C6CF5A4005908DF /* ResizingImagesGeometryReaderContentView.swift */; };
+		F8E3387C2C6CF8A9005908DF /* FramesInsideGeometryReaderContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E3387B2C6CF8A9005908DF /* FramesInsideGeometryReaderContentView.swift */; };
+		F8E338802C6CFAA6005908DF /* CoordinatesInsideGeometryReaderContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E3387F2C6CFAA6005908DF /* CoordinatesInsideGeometryReaderContentView.swift */; };
+		F8E338822C6D0356005908DF /* ScrollViewEffectsContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338812C6D0356005908DF /* ScrollViewEffectsContentView.swift */; };
+		F8E338842C6D0474005908DF /* FlipTheCoinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338832C6D0474005908DF /* FlipTheCoinView.swift */; };
+		F8E338862C6D094C005908DF /* VisualEffectScrollTargetBehaviorContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E338852C6D094C005908DF /* VisualEffectScrollTargetBehaviorContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,16 @@
 		F8E338652C6CC570005908DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F8E338672C6CC572005908DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8E3386A2C6CC572005908DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F8E338712C6CC683005908DF /* HowLayoutWorksContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowLayoutWorksContentView.swift; sourceTree = "<group>"; };
+		F8E338732C6CDA00005908DF /* CustomAlignmentGuideContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlignmentGuideContentView.swift; sourceTree = "<group>"; };
+		F8E338752C6CE4A1005908DF /* AbsolutePositioningContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbsolutePositioningContentView.swift; sourceTree = "<group>"; };
+		F8E338772C6CE814005908DF /* SantanderLoginContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantanderLoginContentView.swift; sourceTree = "<group>"; };
+		F8E338792C6CF5A4005908DF /* ResizingImagesGeometryReaderContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizingImagesGeometryReaderContentView.swift; sourceTree = "<group>"; };
+		F8E3387B2C6CF8A9005908DF /* FramesInsideGeometryReaderContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesInsideGeometryReaderContentView.swift; sourceTree = "<group>"; };
+		F8E3387F2C6CFAA6005908DF /* CoordinatesInsideGeometryReaderContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatesInsideGeometryReaderContentView.swift; sourceTree = "<group>"; };
+		F8E338812C6D0356005908DF /* ScrollViewEffectsContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewEffectsContentView.swift; sourceTree = "<group>"; };
+		F8E338832C6D0474005908DF /* FlipTheCoinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipTheCoinView.swift; sourceTree = "<group>"; };
+		F8E338852C6D094C005908DF /* VisualEffectScrollTargetBehaviorContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectScrollTargetBehaviorContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +71,9 @@
 		F8E338622C6CC570005908DF /* LayoutAndGeometry */ = {
 			isa = PBXGroup;
 			children = (
+				F8E3387E2C6CF8B7005908DF /* Models */,
+				F8E3387D2C6CF8B4005908DF /* Views */,
 				F8E338632C6CC570005908DF /* LayoutAndGeometryApp.swift */,
-				F8E338652C6CC570005908DF /* ContentView.swift */,
 				F8E338672C6CC572005908DF /* Assets.xcassets */,
 				F8E338692C6CC572005908DF /* Preview Content */,
 			);
@@ -65,6 +86,31 @@
 				F8E3386A2C6CC572005908DF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F8E3387D2C6CF8B4005908DF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F8E338652C6CC570005908DF /* ContentView.swift */,
+				F8E338712C6CC683005908DF /* HowLayoutWorksContentView.swift */,
+				F8E338732C6CDA00005908DF /* CustomAlignmentGuideContentView.swift */,
+				F8E338752C6CE4A1005908DF /* AbsolutePositioningContentView.swift */,
+				F8E338772C6CE814005908DF /* SantanderLoginContentView.swift */,
+				F8E338792C6CF5A4005908DF /* ResizingImagesGeometryReaderContentView.swift */,
+				F8E3387B2C6CF8A9005908DF /* FramesInsideGeometryReaderContentView.swift */,
+				F8E3387F2C6CFAA6005908DF /* CoordinatesInsideGeometryReaderContentView.swift */,
+				F8E338812C6D0356005908DF /* ScrollViewEffectsContentView.swift */,
+				F8E338852C6D094C005908DF /* VisualEffectScrollTargetBehaviorContentView.swift */,
+				F8E338832C6D0474005908DF /* FlipTheCoinView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F8E3387E2C6CF8B7005908DF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +183,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8E338722C6CC683005908DF /* HowLayoutWorksContentView.swift in Sources */,
+				F8E338782C6CE814005908DF /* SantanderLoginContentView.swift in Sources */,
 				F8E338662C6CC570005908DF /* ContentView.swift in Sources */,
+				F8E338742C6CDA00005908DF /* CustomAlignmentGuideContentView.swift in Sources */,
+				F8E338802C6CFAA6005908DF /* CoordinatesInsideGeometryReaderContentView.swift in Sources */,
+				F8E338862C6D094C005908DF /* VisualEffectScrollTargetBehaviorContentView.swift in Sources */,
+				F8E338762C6CE4A1005908DF /* AbsolutePositioningContentView.swift in Sources */,
+				F8E338842C6D0474005908DF /* FlipTheCoinView.swift in Sources */,
+				F8E3387C2C6CF8A9005908DF /* FramesInsideGeometryReaderContentView.swift in Sources */,
+				F8E3387A2C6CF5A4005908DF /* ResizingImagesGeometryReaderContentView.swift in Sources */,
 				F8E338642C6CC570005908DF /* LayoutAndGeometryApp.swift in Sources */,
+				F8E338822C6D0356005908DF /* ScrollViewEffectsContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
